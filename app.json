@@ -1,6 +1,6 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
+  "name": "Am Me",
+  "description": "Am Me, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -16,7 +16,7 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIAKVos1p+AXvRpAQAAAkIAAAKAAAAY3JlZHMuanNvbpVU246jRhD9lahfba3B5mKQRgpgwPiCsTE2dpSHNjQMmGvTgPFq8iX5gnxWviTCM5MdKZvNhKemaKrOOXWqvoIsjyq0RB0Qv4ICRw0kqD+SrkBABHIdBAiDIfAhgUAE3HKTCBbHuyr7bBeXwL3useQkRDLz+gJTypyfz2gQhZpOPYGXISjqSxJ5P0hYcmUrQUtbeEcllFr9lq7UkswJWftNZWvK*dCFZnG1djvmCbz0GWGEoyxUi2eUIgyTJeosGOHPwdf1dWpL1TwO+XC8qZ+dsjqubg2mprftepDpeWNMa3NUG0n+OfiH4Hhb0CHNql6sBk7Kthsqvs63qadOF4iXfb6+71aVWYbUK*wqCjPkGz7KSES6T+uuzrgNDf2cMjyKvYf1IcsOY9S0vjcvdu3Nlfds4pkba3+tPgfcnNwGcjUv9ess3bNJ7noS1DOKkqkODxYzKRbyKDVK7XowPgK38LtXrv9Hd3XpqEzJhhO8XPObzKas09H198F2cqcdLp4em3BBsby0TMPPwXfsoNoFAzNfSic5z7jyWdCm2slwZ5a+JEdeMzddVJgKv62+wYekxj9CmWjGerdzi2TE3uicOtxPeGs5S*Xe8ORkVo0Tyu7sKLcO3442whUtR345De04l*yrJWn3+hwypD2nK6M2U2y7p53axO3Tg9EVdYYPRPplCDAKo4pgSKI862OcMATQb2zkYUQe6oJaCpNLimuGJvQAtef4yGxblhRtfL07wdjRav9+bcxC0q5PYAgKnHuoqpA*jyqS426NqgqGqALiL49G9ZwxSnOCFpEPRDCeTFhK4BleYLifqy*tMyQVLIovGSJgCAKcp2sERIJrNASPH2iOE8a8IkkzjWanMsePNZ5RWF6ejVVaGXM9w*S16D5KUUVgWgCR5hmeYwWBpl9+HYIM3cirfXrSE3oIgghXxMnqIsmh*+6t94*Q8*I6I3aXeUp*QBiIH8KIkCgLq55ZnUHsPUcNUnoeQAxgUqG*dUYY+e9c3naHkvt9+01ropsLcw167H2if2gjjr8jT*K4xnD8WBBolqU5btrf68NDkME+FfhNSn9ao5*+*P2PXpk3zH0JHxEYJRUQgWJGfj5q56plnfBa1XXJCCUllMA3ju+WffWEdkhC+WrSN2OxGkwnh5udq0cCK7jQJqPzkaXUZrAKeSfYq0*fSQJEwCZ2GdDx*iYZ9+lWNSeHoA2OmrCeJG3rKmMk7LbbU3xS4xPFCXbE49V9a7WLiJlcNnpJm5kxYv22SFzTmHDM2E1bWgqf+mo+aiIPfSzW6Qm*Y5QkPqxXndemsd0E8WbEjgeKauvzW+m4C0pZHfdaKZ8GA7fbEW91SSkFmfO1tOQZobkzSuNWl8HMKlbudCrH8fZ1mB7DnLwt0ejN59HjNYjQYye9NeI*u*kKvDcd9TL8kONty*3LppB3h*NJOs98z1bsUWPSnlPKGj5iPdr5o*Gh9uXVKGI29Jy6gZfe*UUCSZDjFIgAZj7OH27Bed272MiC*AfFFCk05DfmCayI9G0yvjNsFPN6y8J5MYfVMxBBlk7kS+*yTioKm0DyPmdA6h+5o8DLX1BLAQIUAxQAAAgIAKVos1p+AXvRpAQAAAkIAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAMwEAAAAAA==",
     "required": false
   }
 },
